@@ -2,7 +2,6 @@
 int number = Convert.ToInt32(Console.ReadLine());
 
 
-
 if (number > 1) {
     if (number % 2 == 0)
     {
